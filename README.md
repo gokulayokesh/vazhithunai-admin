@@ -1,0 +1,2 @@
+# vazhithunai-admin
+vazhithunai-admin
