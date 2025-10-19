@@ -9,6 +9,7 @@ Route::get('/{any}', function () {
     return view('layouts.app'); // your frontend Vue entry file
 })->where('any', '^(?!api).*$'); 
 
+// Route changes
 
 Route::prefix('api')->group(function () {
 
