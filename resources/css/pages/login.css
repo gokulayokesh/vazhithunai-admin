@@ -1,0 +1,24 @@
+.admin-name {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  margin-bottom: 10px;
+}
+.admin-name a {
+  height: 40px;
+}
+.admin-name img {
+  height: 32px;
+  object-fit: cover;
+}
+.admin-name h4 {  
+  font-family: "Dancing Script", cursive;
+  margin-left: 10px;
+  font-weight: 700;
+  font-size: 28px;
+}
+.f-pwd {
+  font-size: 14px;
+  text-decoration: none;
+  font-weight: 600;
+}
