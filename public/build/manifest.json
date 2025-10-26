@@ -1,0 +1,95 @@
+{
+  "resources/assets/icons/tabler-icons/fonts/tabler-icons.eot": {
+    "file": "assets/tabler-icons-D91Td7Em.eot",
+    "src": "resources/assets/icons/tabler-icons/fonts/tabler-icons.eot"
+  },
+  "resources/assets/icons/tabler-icons/fonts/tabler-icons.svg": {
+    "file": "assets/tabler-icons-BkljY4kY.svg",
+    "src": "resources/assets/icons/tabler-icons/fonts/tabler-icons.svg"
+  },
+  "resources/assets/icons/tabler-icons/fonts/tabler-icons.ttf": {
+    "file": "assets/tabler-icons-Bj6HnZqC.ttf",
+    "src": "resources/assets/icons/tabler-icons/fonts/tabler-icons.ttf"
+  },
+  "resources/assets/icons/tabler-icons/fonts/tabler-icons.woff": {
+    "file": "assets/tabler-icons-5JjTyLEB.woff",
+    "src": "resources/assets/icons/tabler-icons/fonts/tabler-icons.woff"
+  },
+  "resources/assets/icons/tabler-icons/fonts/tabler-icons.woff2": {
+    "file": "assets/tabler-icons-CdTAjtqK.woff2",
+    "src": "resources/assets/icons/tabler-icons/fonts/tabler-icons.woff2"
+  },
+  "resources/assets/images/user-3.jpg": {
+    "file": "assets/user-3-BulbDT4G.jpg",
+    "src": "resources/assets/images/user-3.jpg"
+  },
+  "resources/js/main.js": {
+    "file": "assets/main-DLq8_HrX.js",
+    "name": "main",
+    "src": "resources/js/main.js",
+    "isEntry": true,
+    "dynamicImports": [
+      "resources/js/pages/Users.vue",
+      "resources/js/pages/EditUser.vue",
+      "resources/js/pages/ContactMessage.vue",
+      "resources/js/pages/Payments.vue",
+      "resources/js/pages/Subscription.vue"
+    ],
+    "css": [
+      "assets/main-Yv9HnlpQ.css"
+    ],
+    "assets": [
+      "assets/user-3-BulbDT4G.jpg",
+      "assets/tabler-icons-D91Td7Em.eot",
+      "assets/tabler-icons-CdTAjtqK.woff2",
+      "assets/tabler-icons-5JjTyLEB.woff",
+      "assets/tabler-icons-Bj6HnZqC.ttf",
+      "assets/tabler-icons-BkljY4kY.svg"
+    ]
+  },
+  "resources/js/pages/ContactMessage.vue": {
+    "file": "assets/ContactMessage-129XhkWo.js",
+    "name": "ContactMessage",
+    "src": "resources/js/pages/ContactMessage.vue",
+    "isDynamicEntry": true,
+    "imports": [
+      "resources/js/main.js"
+    ]
+  },
+  "resources/js/pages/EditUser.vue": {
+    "file": "assets/EditUser-mA9BLe2o.js",
+    "name": "EditUser",
+    "src": "resources/js/pages/EditUser.vue",
+    "isDynamicEntry": true,
+    "imports": [
+      "resources/js/main.js"
+    ]
+  },
+  "resources/js/pages/Payments.vue": {
+    "file": "assets/Payments-DF6AE5GO.js",
+    "name": "Payments",
+    "src": "resources/js/pages/Payments.vue",
+    "isDynamicEntry": true,
+    "imports": [
+      "resources/js/main.js"
+    ]
+  },
+  "resources/js/pages/Subscription.vue": {
+    "file": "assets/Subscription-De1SxiYk.js",
+    "name": "Subscription",
+    "src": "resources/js/pages/Subscription.vue",
+    "isDynamicEntry": true,
+    "imports": [
+      "resources/js/main.js"
+    ]
+  },
+  "resources/js/pages/Users.vue": {
+    "file": "assets/Users-Ba5X-2w1.js",
+    "name": "Users",
+    "src": "resources/js/pages/Users.vue",
+    "isDynamicEntry": true,
+    "imports": [
+      "resources/js/main.js"
+    ]
+  }
+}
