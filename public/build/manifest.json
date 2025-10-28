@@ -4,7 +4,7 @@
     "src": "resources/assets/icons/tabler-icons/fonts/tabler-icons.eot"
   },
   "resources/assets/icons/tabler-icons/fonts/tabler-icons.svg": {
-    "file": "assets/tabler-icons-BkljY4kY.svg",
+    "file": "assets/tabler-icons-DkKlmoMw.svg",
     "src": "resources/assets/icons/tabler-icons/fonts/tabler-icons.svg"
   },
   "resources/assets/icons/tabler-icons/fonts/tabler-icons.ttf": {
@@ -24,7 +24,7 @@
     "src": "resources/assets/images/user-3.jpg"
   },
   "resources/js/main.js": {
-    "file": "assets/main-DLq8_HrX.js",
+    "file": "assets/main-DtySjAVC.js",
     "name": "main",
     "src": "resources/js/main.js",
     "isEntry": true,
@@ -36,7 +36,7 @@
       "resources/js/pages/Subscription.vue"
     ],
     "css": [
-      "assets/main-Yv9HnlpQ.css"
+      "assets/main-C5fF9WR-.css"
     ],
     "assets": [
       "assets/user-3-BulbDT4G.jpg",
@@ -44,11 +44,11 @@
       "assets/tabler-icons-CdTAjtqK.woff2",
       "assets/tabler-icons-5JjTyLEB.woff",
       "assets/tabler-icons-Bj6HnZqC.ttf",
-      "assets/tabler-icons-BkljY4kY.svg"
+      "assets/tabler-icons-DkKlmoMw.svg"
     ]
   },
   "resources/js/pages/ContactMessage.vue": {
-    "file": "assets/ContactMessage-129XhkWo.js",
+    "file": "assets/ContactMessage-DYwE4mci.js",
     "name": "ContactMessage",
     "src": "resources/js/pages/ContactMessage.vue",
     "isDynamicEntry": true,
@@ -57,7 +57,7 @@
     ]
   },
   "resources/js/pages/EditUser.vue": {
-    "file": "assets/EditUser-mA9BLe2o.js",
+    "file": "assets/EditUser-BjxNN7hW.js",
     "name": "EditUser",
     "src": "resources/js/pages/EditUser.vue",
     "isDynamicEntry": true,
@@ -66,7 +66,7 @@
     ]
   },
   "resources/js/pages/Payments.vue": {
-    "file": "assets/Payments-DF6AE5GO.js",
+    "file": "assets/Payments-8N6-l3ES.js",
     "name": "Payments",
     "src": "resources/js/pages/Payments.vue",
     "isDynamicEntry": true,
@@ -75,7 +75,7 @@
     ]
   },
   "resources/js/pages/Subscription.vue": {
-    "file": "assets/Subscription-De1SxiYk.js",
+    "file": "assets/Subscription-BgJVRy7g.js",
     "name": "Subscription",
     "src": "resources/js/pages/Subscription.vue",
     "isDynamicEntry": true,
@@ -84,7 +84,7 @@
     ]
   },
   "resources/js/pages/Users.vue": {
-    "file": "assets/Users-Ba5X-2w1.js",
+    "file": "assets/Users-a-LKPpad.js",
     "name": "Users",
     "src": "resources/js/pages/Users.vue",
     "isDynamicEntry": true,
