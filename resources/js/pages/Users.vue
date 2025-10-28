@@ -35,7 +35,7 @@
                           </div>
                         </td>
                         <td>
-                          <span>{{ user.email }}</span>
+                          <span>{{ user.getRawOriginal('email') }}</span>
                         </td>
                         <td>
                           <span 
@@ -50,7 +50,7 @@
                           </span>
                         </td>
                         <td>
-                          <span class="text-dark">{{ user.mobile }}</span>
+                          <span class="text-dark">{{ user.getRawOriginal('mobile') }}</span>
                         </td>
                         <td>
                           <span 
